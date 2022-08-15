@@ -12,3 +12,7 @@ Bonus:
 
 1. ...and it prints the picture when run (string usage relaxed here)
 2. ...and it's constexpr! (so it fails to compile until the puzzle is valid!)
+
+
+See [blog entry](https://rpav.mephle.net/post/2022/constexpr-nonograms).
+**[Play](https://godbolt.org/z/Px4qhM97Y)** on godbolt!
